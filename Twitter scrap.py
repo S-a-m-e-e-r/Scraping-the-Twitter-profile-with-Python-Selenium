@@ -11,8 +11,8 @@ driver = webdriver.Firefox()
 
 def login():
     # Replace these with your Twitter credentials
-    username = "mohammed_5ameer"
-    password = "MDsami786"
+    username = "Username"
+    password = "password"
 
     # Open Twitter login page
     driver.get("https://twitter.com/login")
